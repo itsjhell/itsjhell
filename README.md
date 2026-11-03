@@ -29,7 +29,7 @@
 
 [+] Identity: Giovanni Lamberti
 [+] Role: Computer Engineering Student
-[+] Focus: Cybersecurity & Software Development
+[+] Focus: Cybersecurity / AI
 [+] Environment: Linux / Windows
 [+] Status: Constantly evolving...
 
