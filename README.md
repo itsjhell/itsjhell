@@ -12,7 +12,7 @@
 <img src="./banner.svg" alt="itsjhell glitch banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=%3E+initializing+itsjhell.exe...;%3E+bypassing+boring+portfolios...;%3E+access+granted+%E2%9C%94" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=%3E+initializing...;%3E+bypassing+boring+portfolios...;%3E+access+granted+%E2%9C%94" alt="typing animation"/>
 </a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=itsjhell&label=VISITORS&color=00ff9c&style=for-the-badge&labelColor=0a0f12)
@@ -125,6 +125,9 @@ Rubrica per nominativi, numeri e e-mail.
  "The only truly secure system is one that is powered off,
   cast in a block of concrete and sealed in a lead-lined room."
                                               — Gene Spafford
+```
+```
+"Reality is just another system waiting to be explored."
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f12,50:00ff9c,100:0a0f12&height=120&section=footer" width="100%"/>
