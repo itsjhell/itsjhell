@@ -62,43 +62,58 @@
 <tr>
 <td width="50%">
 
-**🛡️ Security Algorithms & Protocols**
-`Python` · Gruppo 14
-Algoritmi e protocolli di sicurezza.
-[`> open repo`](https://github.com/VxVilla55/Project-Security_Algorithms-Protocols---Gruppo-14)
+**🧠 Machine Learning** `Python/PyTorch`
+Waste type classification through a CNN.
+[`> open repo`](https://github.com/VxVilla55/Project-Machine-Learning---Gruppo-12)
 
 </td>
 <td width="50%">
 
-**🧠 Machine Learning**
-`Jupyter Notebook` · Gruppo 12
-Classificazione di immagini di rifiuti (PyTorch).
-[`> open repo`](https://github.com/VxVilla55/Project-Machine-Learning---Gruppo-12)
+**🛡️ Security Algorithms & Protocols** `Python`
+Cryptographic algorithm design and implementation.
+[`> open repo`](https://github.com/VxVilla55/Project-Security_Algorithms-Protocols---Gruppo-14)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🏗️ Software Architecture Design**
-`Java` · Gruppo 10
-Progetto di architettura software.
+**🔄 Software Architecture Design** `Java`
+SCRUM: music playlist manager developing through AGILE method.
 [`> open repo`](https://github.com/VxVilla55/Project-Software-Architecture-Design---Gruppo-10)
 
 </td>
 <td width="50%">
-
-**📇 MyContactManager**
-`HTML`
-Rubrica per nominativi, numeri e e-mail.
-[`> open repo`](https://github.com/VxVilla55/MyContactManager)
+  
+**⌨️ Makroo** `Python`
+Application to record automated macros/clicks.
+[`> open repo`](https://github.com/itsjhell/Makroo)
 
 </td>
 </tr>
+
+<tr>
+<td>
+  
+**💽 Vinyl Collection App** `Dart/Flutter`
+Address book for contacts, phone numbers and emails.
+[`> open repo`](https://github.com/VxVilla55/vinyl_collection_app)
+
+</td>
+
+<td>
+  
+**📇 MyContactManager** `Java`
+Address book for contacts, phone numbers and emails.
+[`> open repo`](https://github.com/VxVilla55/MyContactManager)
+
+</td>
+  
+</tr>
+
 </table>
 
 ---
-
 
 ## `> cat stats.log`
  
