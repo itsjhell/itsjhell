@@ -41,7 +41,7 @@
   </g>
 
   <!-- subtitle -->
-  <text x="450" y="185" font-family="'Courier New', monospace" font-size="20" fill="#00ff9c" text-anchor="middle">[ computer engineering :: cybersecurity :: ai ]</text>
+  <text x="450" y="185" font-family="'Courier New', monospace" font-size="20" fill="#00ff9c" text-anchor="middle">[ cybersecurity :: ai :: computer engineering ]</text>
   <text x="450" y="215" font-family="'Courier New', monospace" font-size="15" fill="#6b8f80" text-anchor="middle">itsjhell@kali:~# whoami<tspan fill="#00ff9c">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
 
   <!-- scanline -->
