@@ -12,7 +12,7 @@
 <img src="./banner.svg" alt="itsjhell glitch banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=%3E+initializing+itsjhell.exe...;%3E+bypassing+boring+portfolios...;%3E+AI+%7C+ML+%7C+Cybersecurity;%3E+access+granted+%E2%9C%94" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=%3E+initializing+itsjhell.exe...;%3E+bypassing+boring+portfolios...;%3E+access+granted+%E2%9C%94" alt="typing animation"/>
 </a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=itsjhell&label=VISITORS&color=00ff9c&style=for-the-badge&labelColor=0a0f12)
