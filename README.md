@@ -126,9 +126,7 @@ Rubrica per nominativi, numeri e e-mail.
   cast in a block of concrete and sealed in a lead-lined room."
                                               — Gene Spafford
 ```
-```
-"Reality is just another system waiting to be explored."
-```
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f12,50:00ff9c,100:0a0f12&height=120&section=footer" width="100%"/>
 
@@ -138,7 +136,9 @@ Rubrica per nominativi, numeri e e-mail.
 <br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br>
-
+```
+"Reality is just another system waiting to be explored."
+```
 # OLD
 
 <div align="center">
