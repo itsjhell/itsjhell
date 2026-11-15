@@ -28,28 +28,31 @@
 
 ## `> ./skills --list`
 
+
 <div align="center">
+
+**// LANGUAGES**
 
 ![Python](https://img.shields.io/badge/Python-0a0f12?style=for-the-badge&logo=python&logoColor=00ff9c)
 ![Java](https://img.shields.io/badge/Java-0a0f12?style=for-the-badge&logo=openjdk&logoColor=00ff9c)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0f12?style=for-the-badge&logo=pytorch&logoColor=00ff9c)
-![Kali](https://img.shields.io/badge/Kali_Linux-0a0f12?style=for-the-badge&logo=kalilinux&logoColor=00ff9c)
+![C](https://img.shields.io/badge/C-0a0f12?style=for-the-badge&logo=c&logoColor=00ff9c)
+![C++](https://img.shields.io/badge/C++-0a0f12?style=for-the-badge&logo=cplusplus&logoColor=00ff9c)
+
+**// SYSTEMS**
+
 ![Linux](https://img.shields.io/badge/Linux-0a0f12?style=for-the-badge&logo=linux&logoColor=00ff9c)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0a0f12?style=for-the-badge&logo=kalilinux&logoColor=00ff9c)
+![Windows](https://img.shields.io/badge/Windows-0a0f12?style=for-the-badge&logo=windows&logoColor=00ff9c)
+![macOS](https://img.shields.io/badge/macOS-0a0f12?style=for-the-badge&logo=apple&logoColor=00ff9c)
+
+**// TOOLS**
+
 ![Git](https://img.shields.io/badge/Git-0a0f12?style=for-the-badge&logo=git&logoColor=00ff9c)
-![Wireshark](https://img.shields.io/badge/Wireshark-0a0f12?style=for-the-badge&logo=wireshark&logoColor=00ff9c)
-![Jupyter](https://img.shields.io/badge/Jupyter-0a0f12?style=for-the-badge&logo=jupyter&logoColor=00ff9c)
+![GitHub](https://img.shields.io/badge/GitHub-0a0f12?style=for-the-badge&logo=github&logoColor=00ff9c)
+![Docker](https://img.shields.io/badge/Docker-0a0f12?style=for-the-badge&logo=docker&logoColor=00ff9c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0f12?style=for-the-badge&logo=postgresql&logoColor=00ff9c)
 
 </div>
-
-```text
-┌──[ ATTACK SURFACE ]─────────────────────────────────┐
-│ Pentesting ........ ████████░░  80%                 │
-│ Network Security .. ███████░░░  70%                 │
-│ Cryptography ...... ███████░░░  70%                 │
-│ Machine Learning .. ████████░░  80%                 │
-│ Software Design ... ███████░░░  70%                 │
-└─────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -97,6 +100,44 @@ Rubrica per nominativi, numeri e e-mail.
 ---
 
 
+## `> cat stats.log`
+
+### GITHUB STATISTICS
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=itsjhell&theme=dark&hide_border=true&background=001100&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=ADFFB0&dates=ADFFB0"/>
+
+</div>
+
+### CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/itsjhell/itsjhell/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-itsjhell-0a0f12?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/itsjhell)
+
+```text
+ "The only truly secure system is one that is powered off,
+  cast in a block of concrete and sealed in a lead-lined room."
+                                              — Gene Spafford
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f12,50:00ff9c,100:0a0f12&height=120&section=footer" width="100%"/>
+
+</div>
+
+
+---
+
+# OLD
 
 <div align="center">
 
@@ -124,49 +165,6 @@ Rubrica per nominativi, numeri e e-mail.
 "Reality is just another system waiting to be explored."
 ```
 
-## `01` // ABOUT ME
-
-<img align="right" width="150" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif"/>
-
-```yaml
-name: Giovanni Lamberti
-alias: itsjhell
-location: Italy 🇮🇹
-
-education:
-  degree: Computer Engineering
-  specialization: Cybersecurity
-
-interests:
-  - Cybersecurity
-  - Ethical Hacking
-  - Artificial Intelligence
-  - Machine Learning
-  - Software Development
-  - Linux & Networking
-
-currently:
-  learning: Always something new
-  building: Personal & University Projects
-  mindset: Think outside the system
-```
-
-<br clear="right"/>
-
-## `02` // TECH ARSENAL
-
-<div align="center">
-
-### PROGRAMMING LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" />
-
-### TOOLS & ENVIRONMENTS
-
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,docker,git,github,bash,vscode,postgres,mysql&theme=dark" />
-
-</div>
-
 ## `03` // ACCESSING MY PROJECTS
 
 ```bash
@@ -188,64 +186,7 @@ drwxr-xr-x  Project-Software-Architecture-Design/
 | Security Algorithms | Security algorithms and protocols |
 | Software Architecture | Software architecture and design |
 
-## `04` // GITHUB STATISTICS
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsjhell&show_icons=true&hide_border=true&bg_color=001100&title_color=00FF41&icon_color=00FF41&text_color=ADFFB0&ring_color=00FF41&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjhell&layout=compact&hide_border=true&bg_color=001100&title_color=00FF41&text_color=ADFFB0"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=itsjhell&theme=dark&hide_border=true&background=001100&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=ADFFB0&dates=ADFFB0"/>
-
-</div>
-
-## `05` // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
-## `06` // ACTIVITY LOG
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjhell&bg_color=001100&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20LOG" width="100%"/>
-
-</div>
-
-## `07` // ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsjhell&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
-
-</div>
-
-## `08` // CURRENT SYSTEM STATUS
-
-```text
-[████████████████████████████████] 100%
-
-> Curiosity ............. UNLIMITED
-> Learning .............. ACTIVE
-> Problem Solving ....... ACTIVE
-> Creativity ............ ACTIVE
-> Giving up ............. DISABLED
-
-[!] SYSTEM MESSAGE:
-The matrix has you...
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=00FF41&center=true&vCenter=true&width=600&lines=Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.;See+you+in+the+matrix." />
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:001100&height=120&section=footer"/>
 
