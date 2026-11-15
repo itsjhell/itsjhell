@@ -100,12 +100,6 @@ Rubrica per nominativi, numeri e e-mail.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:001100,50:003B00,100:00FF41&text=ITSJHELL&fontColor=00FF41&fontSize=75&fontAlignY=50&animation=fadeIn&stroke=00FF41&strokeWidth=1" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Wake+up%2C+Neo...;System+access+granted+%5Bitsjhell%5D;Computer+Engineering+%7C+Cybersecurity;Exploring+the+digital+underground...;There+is+no+place+like+127.0.0.1" />
-
-<br/>
-
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=001100"/>
 <img src="https://img.shields.io/badge/CLASS-CYBERSECURITY-00FF41?style=for-the-badge&labelColor=001100"/>
 <img src="https://komarev.com/ghpvc/?username=itsjhell&style=for-the-badge&color=00FF41&label=PROFILE+ACCESS"/>
