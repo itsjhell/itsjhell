@@ -9,6 +9,97 @@
 
 <div align="center">
 
+<img src="./banner.svg" alt="itsjhell glitch banner" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=%3E+initializing+itsjhell.exe...;%3E+bypassing+boring+portfolios...;%3E+AI+%7C+ML+%7C+Cybersecurity;%3E+access+granted+%E2%9C%94" alt="typing animation"/>
+</a>
+
+![Profile views](https://komarev.com/ghpvc/?username=itsjhell&label=VISITORS&color=00ff9c&style=for-the-badge&labelColor=0a0f12)
+![Followers](https://img.shields.io/github/followers/itsjhell?style=for-the-badge&color=00ff9c&labelColor=0a0f12&logo=github)
+
+</div>
+
+---
+
+<img src="./terminal.svg" alt="terminal" width="100%"/>
+
+---
+
+## `> ./skills --list`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0a0f12?style=for-the-badge&logo=python&logoColor=00ff9c)
+![Java](https://img.shields.io/badge/Java-0a0f12?style=for-the-badge&logo=openjdk&logoColor=00ff9c)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0f12?style=for-the-badge&logo=pytorch&logoColor=00ff9c)
+![Kali](https://img.shields.io/badge/Kali_Linux-0a0f12?style=for-the-badge&logo=kalilinux&logoColor=00ff9c)
+![Linux](https://img.shields.io/badge/Linux-0a0f12?style=for-the-badge&logo=linux&logoColor=00ff9c)
+![Git](https://img.shields.io/badge/Git-0a0f12?style=for-the-badge&logo=git&logoColor=00ff9c)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a0f12?style=for-the-badge&logo=wireshark&logoColor=00ff9c)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0f12?style=for-the-badge&logo=jupyter&logoColor=00ff9c)
+
+</div>
+
+```text
+┌──[ ATTACK SURFACE ]─────────────────────────────────┐
+│ Pentesting ........ ████████░░  80%                 │
+│ Network Security .. ███████░░░  70%                 │
+│ Cryptography ...... ███████░░░  70%                 │
+│ Machine Learning .. ████████░░  80%                 │
+│ Software Design ... ███████░░░  70%                 │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> ls ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+**🛡️ Security Algorithms & Protocols**
+`Python` · Gruppo 14
+Algoritmi e protocolli di sicurezza.
+[`> open repo`](https://github.com/VxVilla55/Project-Security_Algorithms-Protocols---Gruppo-14)
+
+</td>
+<td width="50%">
+
+**🧠 Machine Learning**
+`Jupyter Notebook` · Gruppo 12
+Classificazione di immagini di rifiuti (PyTorch).
+[`> open repo`](https://github.com/VxVilla55/Project-Machine-Learning---Gruppo-12)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏗️ Software Architecture Design**
+`Java` · Gruppo 10
+Progetto di architettura software.
+[`> open repo`](https://github.com/VxVilla55/Project-Software-Architecture-Design---Gruppo-10)
+
+</td>
+<td width="50%">
+
+**📇 MyContactManager**
+`HTML`
+Rubrica per nominativi, numeri e e-mail.
+[`> open repo`](https://github.com/VxVilla55/MyContactManager)
+
+</td>
+</tr>
+</table>
+
+---
+
+
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:001100,50:003B00,100:00FF41&text=ITSJHELL&fontColor=00FF41&fontSize=75&fontAlignY=50&animation=fadeIn&stroke=00FF41&strokeWidth=1" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Wake+up%2C+Neo...;System+access+granted+%5Bitsjhell%5D;Computer+Engineering+%7C+Cybersecurity;Exploring+the+digital+underground...;There+is+no+place+like+127.0.0.1" />
