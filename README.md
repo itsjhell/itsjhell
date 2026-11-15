@@ -101,24 +101,21 @@ Rubrica per nominativi, numeri e e-mail.
 
 
 ## `> cat stats.log`
-
+ 
 ### GITHUB STATISTICS
-
+ 
 <div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=itsjhell&theme=dark&hide_border=true&background=001100&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=ADFFB0&dates=ADFFB0"/>
-
+<img width="70%" src="https://streak-stats.demolab.com?user=itsjhell&hide_border=true&background=0a0f12&ring=00ff9c&fire=ff003c&currStreakLabel=00ff9c&currStreakNum=e8fff6&sideLabels=00ff9c&sideNums=e8fff6&dates=6b8f80&stroke=00ff9c33"/>
 </div>
 
 ### CONTRIBUTION MATRIX
-
+ 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/itsjhell/itsjhell/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
 </div>
 
 ---
+
 
 <div align="center">
 
@@ -136,6 +133,10 @@ Rubrica per nominativi, numeri e e-mail.
 
 
 ---
+
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 # OLD
 
