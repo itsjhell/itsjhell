@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24">
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#4f93ff" stop-opacity="0"/><stop offset="0.5" stop-color="#4f93ff" stop-opacity="0.55"/><stop offset="1" stop-color="#4f93ff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="p" x1="0" x2="1"><stop offset="0" stop-color="#4f93ff" stop-opacity="0"/><stop offset="1" stop-color="#f2f6ff"/></linearGradient>
+  <filter id="g" x="-50%" y="-200%" width="200%" height="500%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="0" y="11.5" width="900" height="1" fill="url(#l)"/>
+<g font-family="'JetBrains Mono','Fira Code','Cascadia Code','Courier New',monospace" font-size="10" fill="#4f93ff" fill-opacity="0.5"><text x="450" y="8" text-anchor="middle">◆</text></g>
+<rect x="-120" y="10.5" width="120" height="3" rx="1.5" fill="url(#p)" filter="url(#g)">
+  <animate attributeName="x" values="-120;900" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+<rect x="900" y="10.5" width="60" height="3" rx="1.5" fill="url(#p)" filter="url(#g)" transform="scale(-1 1) translate(-900 0)">
+  <animate attributeName="x" values="-60;900" dur="4.6s" begin="-1.5s" repeatCount="indefinite"/>
+</rect>
+</svg>
