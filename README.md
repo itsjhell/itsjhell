@@ -186,11 +186,13 @@ Address book for contacts, phone numbers and emails.
 
 </div> <br>
 
+<!--
 <img src="./divider.svg" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/itsjhell"><img src="https://img.shields.io/badge/GitHub-itsjhell-101828?style=for-the-badge&logo=github&logoColor=4f93ff"/></a>
+-->
 
 ```text
  follow the white rabbit.
