@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="./banner.svg" alt="itsjhell — cybersecurity :: ai :: computer engineering" width="100%"/>
+<img src="./banner.svg" alt="itsjhell - cybersecurity :: ai :: computer engineering" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=4F93FF&background=00000000&center=true&vCenter=true&width=720&lines=%3E+establishing+secure+connection...;%3E+bypassing+boring+portfolios...;%3E+decrypting+profile+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+80%25;%3E+access+granted+%E2%9C%94+welcome%2C+operator." alt="typing animation"/>
@@ -174,11 +174,13 @@ Address book for contacts, phone numbers and emails.
 <div align="center">
 
 <img width="49%" src="https://streak-stats.demolab.com?user=itsjhell&hide_border=true&background=101828&ring=4f93ff&fire=ff003c&currStreakLabel=4f93ff&currStreakNum=f2f6ff&sideLabels=4f93ff&sideNums=f2f6ff&dates=8496b8&stroke=4f93ff33" alt="streak"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsjhell&bg_color=101828&color=4f93ff&line=4f93ff&point=f2f6ff&area=true&area_color=4f93ff&title_color=4f93ff&hide_border=true&custom_title=packet%20traffic%20%2F%2F%20last%2030%20days&days=30" alt="activity graph"/>
 
+<!--
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsjhell&bg_color=101828&color=4f93ff&line=4f93ff&point=f2f6ff&area=true&area_color=4f93ff&title_color=4f93ff&hide_border=true&custom_title=packet%20traffic%20%2F%2F%20last%2030%20days&days=30" alt="activity graph"/>
+-->
 <br/><br/>
 
-<sub><code>// CONTRIBUTION MATRIX — snake.exe eating my commits</code></sub>
+<code>// CONTRIBUTION MATRIX - snake.exe</code>
 
 <img src="https://raw.githubusercontent.com/itsjhell/itsjhell/output/matrix-snake.svg" width="100%" alt="contribution snake"/>
 
