@@ -36,13 +36,13 @@
 
 <div align="center">
 
+<!--
 <sub><code>// LANGUAGES</code></sub>
 <br/>
 <img src="https://img.shields.io/badge/Python-101828?style=for-the-badge&logo=python&logoColor=4f93ff"/>
 <img src="https://img.shields.io/badge/Java-101828?style=for-the-badge&logo=openjdk&logoColor=4f93ff"/>
 <img src="https://img.shields.io/badge/C-101828?style=for-the-badge&logo=c&logoColor=4f93ff"/>
 <img src="https://img.shields.io/badge/C++-101828?style=for-the-badge&logo=cplusplus&logoColor=4f93ff"/>
-<img src="https://img.shields.io/badge/Dart-101828?style=for-the-badge&logo=dart&logoColor=4f93ff"/>
 
 <sub><code>// AI · ML</code></sub>
 <br/>
@@ -67,6 +67,30 @@
 <img src="https://img.shields.io/badge/PostgreSQL-101828?style=for-the-badge&logo=postgresql&logoColor=4f93ff"/>
 <img src="https://img.shields.io/badge/Git-101828?style=for-the-badge&logo=git&logoColor=4f93ff"/>
 <img src="https://img.shields.io/badge/Flutter-101828?style=for-the-badge&logo=flutter&logoColor=4f93ff"/>
+-->
+
+
+<code>// LANGUAGES</code><br>
+
+<img src="https://img.shields.io/badge/Python-101828?style=for-the-badge&logo=python&logoColor=4f93ff"/>
+<img src="https://img.shields.io/badge/Java-101828?style=for-the-badge&logo=openjdk&logoColor=4f93ff"/>
+<img src="https://img.shields.io/badge/C-101828?style=for-the-badge&logo=c&logoColor=4f93ff"/>
+<img src="https://img.shields.io/badge/C++-101828?style=for-the-badge&logo=cplusplus&logoColor=4f93ff"/>
+
+<code>// SYSTEMS</code> <br>
+
+<img src="https://img.shields.io/badge/macOS-101828?style=for-the-badge&logo=apple&logoColor=4f93ff"/>
+<img src="https://img.shields.io/badge/Windows-101828?style=for-the-badge&logo=windows&logoColor=4f93ff"/>
+<img src="https://img.shields.io/badge/Linux-101828?style=for-the-badge&logo=linux&logoColor=4f93ff"/>
+<img src="https://img.shields.io/badge/Kali_Linux-101828?style=for-the-badge&logo=kalilinux&logoColor=4f93ff"/>
+
+<code>// TOOLS</code> <br>
+
+<img src="https://img.shields.io/badge/Git-101828?style=for-the-badge&logo=git&logoColor=4f93ff"/>
+<img src="https://img.shields.io/badge/Docker-101828?style=for-the-badge&logo=docker&logoColor=4f93ff"/>
+<img src="https://img.shields.io/badge/Burp_Suite-101828?style=for-the-badge&logo=burpsuite&logoColor=4f93ff"/>
+<img src="https://img.shields.io/badge/Metasploit-101828?style=for-the-badge&logo=metasploit&logoColor=4f93ff"/>
+<img src="https://img.shields.io/badge/PyTorch-101828?style=for-the-badge&logo=pytorch&logoColor=4f93ff"/>
 
 </div>
 
@@ -167,9 +191,7 @@ Address book for contacts, phone numbers and emails.
 <a href="https://github.com/itsjhell"><img src="https://img.shields.io/badge/GitHub-itsjhell-101828?style=for-the-badge&logo=github&logoColor=4f93ff"/></a>
 
 ```text
- "The only truly secure system is one that is powered off,
-  cast in a block of concrete and sealed in a lead-lined room."
-                                              — Gene Spafford
+ follow the white rabbit.
 ```
 
 <sub><code>CONNECTION TERMINATED // END OF TRANSMISSION</code></sub>
