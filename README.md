@@ -184,7 +184,7 @@ Address book for contacts, phone numbers and emails.
 
 <img src="https://raw.githubusercontent.com/itsjhell/itsjhell/output/matrix-snake.svg" width="100%" alt="contribution snake"/>
 
-</div>
+</div> <br>
 
 <img src="./divider.svg" width="100%"/>
 
@@ -196,7 +196,6 @@ Address book for contacts, phone numbers and emails.
  follow the white rabbit.
 ```
 
-<sub><code>CONNECTION TERMINATED // END OF TRANSMISSION</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:4f93ff,100:101828&height=120&section=footer" width="100%"/>
 
